@@ -1,4 +1,5 @@
-General-Disease-Prediction-System-GDPS-
+**General-Disease-Prediction-System-GDPS-**
+
 The health care industries collect huge amounts of data that contain some hidden information, which is useful for making effective decisions. For providing appropriate results and making effective decisions on Data, some advanced data mining techniques are used.
 
 In this study, a General Disease Prediction System (GDPS) is developed using various algorithms for predicting if the patient has a Disease or not. The System gives option to select the disease that they want to examine for (Heart, Diabetes, and Parkinson’s disease).
